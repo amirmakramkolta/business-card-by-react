@@ -1,0 +1,13 @@
+.container{
+    width: 40%;
+    margin: auto;
+    background-color: #1A1B21;
+    margin-top: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+@media screen and (max-width:500px){
+    .container{
+        width: 90%;
+    }
+}
